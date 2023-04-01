@@ -9,7 +9,6 @@ Resourceful and innovative Frontend Lead with plenty of hands-on experience, str
 *   🌍  I'm based in Munich
 *   🚀  See some samples of my work at [CodeSandbox](https://codesandbox.io/u/oscarbastos)
 *   🖥️  See my Technical Blog at [Medium](http://oscarbastos.medium.com/)
-
     <table>
       <tr>
         <td>Frontend Dev</td>
@@ -75,7 +74,7 @@ Resourceful and innovative Frontend Lead with plenty of hands-on experience, str
           /></a>
           <a href=""
             ><img
-              src="https://github.com/bestofjs-webui/public/logos/playwright.svg"
+              src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/playwright.svg"
               width="40"
               height="40"
           /></a>
