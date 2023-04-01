@@ -20,31 +20,31 @@ Resourceful and innovative Frontend Lead with plenty of hands-on experience, str
               width="40"
               height="40"
           /></a>
-          <a href=""
+          <a href="" title="CSS3"
             ><img
               src="https://github.com/devicons/devicon/blob/v2.13.0/icons/css3/css3-original.svg"
               width="40"
               height="40"
           /></a>
-          <a href=""
+          <a href="" title="JavaScript"
             ><img
               src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg"
               width="40"
               height="40"
           /></a>
-          <a href=""
+          <a href="" title="TypeScript"
             ><img
               src="https://github.com/devicons/devicon/blob/v2.13.0/icons/typescript/typescript-original.svg"
               width="40"
               height="40"
           /></a>
-          <a href=""
+          <a href="" title="React"
             ><img
               src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg"
               width="40"
               height="40"
           /></a>
-          <a href=""
+          <a href="" title="NextJS"
             ><img
               src="https://github.com/devicons/devicon/blob/v2.13.0/icons/nextjs/nextjs-original.svg"
               width="40"
@@ -55,25 +55,25 @@ Resourceful and innovative Frontend Lead with plenty of hands-on experience, str
       <tr>
         <td>Automated Testing</td>
         <td>
-          <a href=""
+          <a href="" title="Jest"
             ><img
               src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jest/jest-plain.svg"
               width="40"
               height="40"
           /></a>
-          <a href=""
+          <a href="" title="React Testing Library"
             ><img
               src="https://testing-library.com/img/octopus-64x64.png"
               width="40"
               height="40"
           /></a>
-          <a href=""
+          <a href="" title="Playwright"
             ><img
               src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/playwright.svg"
               width="40"
               height="40"
           /></a>
-          <a href=""
+          <a href="" title="Cypress"
             ><img
               src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/cypress.svg"
               width="40"
@@ -84,13 +84,13 @@ Resourceful and innovative Frontend Lead with plenty of hands-on experience, str
       <tr>
         <td>CI/CD</td>
         <td>
-          <a href=""
+          <a href="" title="Travis"
             ><img
               src="https://github.com/devicons/devicon/blob/v2.13.0/icons/travis/travis-plain.svg"
               width="40"
               height="40"
           /></a>
-          <a href=""
+          <a href="" title="Jenkins"
             ><img
               src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jenkins/jenkins-original.svg"
               width="40"
@@ -101,13 +101,13 @@ Resourceful and innovative Frontend Lead with plenty of hands-on experience, str
       <tr>
         <td>Cloud Services</td>
         <td>
-          <a href=""
+          <a href="" title="AWS"
             ><img
               src="https://www.svgrepo.com/show/448266/aws.svg"
               width="40"
               height="40"
           /></a>
-          <a href=""
+          <a href=""title="Vercel"
             ><img
               src="https://www.svgrepo.com/show/327408/logo-vercel.svg"
               width="40"
