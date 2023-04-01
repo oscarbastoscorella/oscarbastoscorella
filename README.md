@@ -10,7 +10,7 @@ Resourceful and innovative Frontend Lead with plenty of hands-on experience, str
 *   🚀  See some samples of my work at [CodeSandbox](https://codesandbox.io/u/oscarbastos)
 *   🖥️  See my Technical Blog at [Medium](http://oscarbastos.medium.com/)
 
-    <table>
+   <table>
       <tr>
         <td>Frontend Dev</td>
         <td>
@@ -88,7 +88,7 @@ Resourceful and innovative Frontend Lead with plenty of hands-on experience, str
         </td>
       </tr>
       <tr>
-        <td>Cloud</td>
+        <td>Cloud Services</td>
         <td>
           <a href=""
             ><img
@@ -98,11 +98,27 @@ Resourceful and innovative Frontend Lead with plenty of hands-on experience, str
           /></a>
           <a href=""
             ><img
-              src="https://testing-library.com/img/octopus-64x64.png"
+              src="https://www.svgrepo.com/show/448266/aws.svg"
+              width="40"
+              height="40"
+          /></a>
+        </td>
+      </tr>
+      <tr>
+        <td>CI/CD</td>
+        <td>
+          <a href=""
+            ><img
+              src="https://github.com/devicons/devicon/blob/v2.13.0/icons/travis/travis-plain.svg"
+              width="40"
+              height="40"
+          /></a>
+          <a href=""
+            ><img
+              src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jenkins/jenkins-original.svg"
               width="40"
               height="40"
           /></a>
         </td>
       </tr>
     </table>
-   
