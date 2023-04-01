@@ -27,7 +27,7 @@ Resourceful and innovative Frontend Lead with plenty of hands-on experience, str
     <tr>
         <td>Others/Misc</td>
         <td>
-           
+            <a href=""><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
 </table>
