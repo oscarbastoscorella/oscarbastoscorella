@@ -14,7 +14,7 @@ Resourceful and innovative Frontend Lead with plenty of hands-on experience, str
       <tr>
         <td>Frontend Dev</td>
         <td>
-          <a title="HTML5"
+          <a href="" title="HTML5"
             ><img
               src="https://github.com/devicons/devicon/blob/v2.13.0/icons/html5/html5-original.svg"
               width="40"
