@@ -11,7 +11,7 @@ Resourceful and innovative Frontend Lead with plenty of hands-on experience, str
 *   🖥️  See my Technical Blog at [Medium](http://oscarbastos.medium.com/)
 
 
-    <table>
+ <table>
       <tr>
         <td>Frontend Dev</td>
         <td>
@@ -64,7 +64,13 @@ Resourceful and innovative Frontend Lead with plenty of hands-on experience, str
         <td>
           <a href=""
             ><img
-              src="https://github.com/devicons/devicon/blob/v2.13.0/icons/nextjs/nextjs-original.svg"
+              src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jest/jest-plain.svg"
+              width="40"
+              height="40"
+          /></a>
+          <a href=""
+            ><img
+              src="https://testing-library.com/img/octopus-64x64.png"
               width="40"
               height="40"
           /></a>
