@@ -10,7 +10,7 @@ Resourceful and innovative Frontend Lead with plenty of hands-on experience, str
 *   🚀  See some samples of my work at [CodeSandbox](https://codesandbox.io/u/oscarbastos)
 *   🖥️  See my Technical Blog at [Medium](http://oscarbastos.medium.com/)
 
-   <table>
+    <table>
       <tr>
         <td>Frontend Dev</td>
         <td>
@@ -87,4 +87,22 @@ Resourceful and innovative Frontend Lead with plenty of hands-on experience, str
           /></a>
         </td>
       </tr>
+      <tr>
+        <td>Cloud</td>
+        <td>
+          <a href=""
+            ><img
+              src="https://www.svgrepo.com/show/327408/logo-vercel.svg"
+              width="40"
+              height="40"
+          /></a>
+          <a href=""
+            ><img
+              src="https://testing-library.com/img/octopus-64x64.png"
+              width="40"
+              height="40"
+          /></a>
+        </td>
+      </tr>
     </table>
+   
