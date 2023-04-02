@@ -7,7 +7,7 @@ My approach to software development centers around creating scalable architectur
 
 *   🌍  I'm based in Munich
 *   🖥️  See my Technical Blog at [Medium](http://oscarbastos.medium.com/)
-*   🚀  See some samples of my work at [CodeSandbox](https://codesandbox.io/u/oscarbastos)
+*   🚀  See some code snippets at my [CodeSandbox](https://codesandbox.io/u/oscarbastos)
 
     <table>
       <tr>
