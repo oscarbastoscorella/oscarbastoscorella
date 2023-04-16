@@ -6,7 +6,7 @@ With a passion for crafting sleek, modern web solutions, I'm a seasoned Frontend
 My approach to software development centers around creating scalable architecture that adheres to the best practices of software engineering principles. I'm skilled in collaborating with cross-functional teams from different countries to plan, design, and develop web applications using agile methodologies. The result? Adaptable products that can seamlessly pivot to meet ever-changing requirements, all while delivering the best possible user experience.
 
 *   🌍  I'm based in Munich
-*   🐟  See my Twitter Profile at [Twitter](https://twitter.com/oscarbastos_web)
+*   🐟  See my Twitter at [Twitter](https://twitter.com/oscarbastos_web)
 *   🖥️  See my Technical Blog at [Medium](https://oscarbastos.medium.com/)
 *   🚀  See some code snippets at my [CodeSandbox](https://codesandbox.io/u/oscarbastos)
 
