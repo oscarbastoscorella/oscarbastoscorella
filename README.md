@@ -6,7 +6,7 @@ I'm a Frontend Lead with a strong passion for building sleek, modern web solutio
 I prioritize creating scalable, well-structured architectures that follow the best practices of software engineering. I enjoy working with cross-functional teams across the globe, collaborating to plan, design, and develop web applications using agile methodologies. My goal is to deliver adaptable, user-focused products that can keep up with evolving requirements.
 
 *   🌍  I'm based in Munich
-*   🐟  See my [X - Twitter](https://twitter.com/oscarbastos_web)
+*   🐟  See my [X (Twitter)] profile (https://twitter.com/oscarbastos_web)
 *   🚀  See some code snippets at my [CodeSandbox](https://codesandbox.io/u/oscarbastos)
 
     <table>
