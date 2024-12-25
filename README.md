@@ -1,12 +1,12 @@
 Hi 👋 My name is Oscar
 =============================================================================================================================
 
-With a passion for crafting sleek, modern web solutions, I'm a seasoned Frontend Lead with a proven track record of success. I bring extensive hands-on experience and strong leadership skills to the table, along with a dedication to mentoring others.
+I'm a Frontend Lead with a strong passion for building sleek, modern web solutions. Over the years, I've gained hands-on experience leading teams and driving projects to success, always with a focus on mentoring and supporting others.
 
-My approach to software development centers around creating scalable architecture that adheres to the best practices of software engineering principles. I'm skilled in collaborating with cross-functional teams from different countries to plan, design, and develop web applications using agile methodologies. The result? Adaptable products that can seamlessly pivot to meet ever-changing requirements, all while delivering the best possible user experience.
+I prioritize creating scalable, well-structured architectures that follow the best practices of software engineering. I enjoy working with cross-functional teams across the globe, collaborating to plan, design, and develop web applications using agile methodologies. My goal is to deliver adaptable, user-focused products that can keep up with evolving requirements.
 
 *   🌍  I'm based in Munich
-*   🐟  See my [Twitter](https://twitter.com/oscarbastos_web)
+*   🐟  See my [X - Twitter](https://twitter.com/oscarbastos_web)
 *   🚀  See some code snippets at my [CodeSandbox](https://codesandbox.io/u/oscarbastos)
 
     <table>
