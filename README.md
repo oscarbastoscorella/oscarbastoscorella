@@ -1,13 +1,11 @@
-Hi 👋 My name is Oscar
-=============================================================================================================================
+# Hi 👋 My name is Oscar
 
 I'm a Frontend Expert with a strong passion for building sleek, modern web solutions. Over the years, I've gained hands-on experience leading teams and driving projects to success, always with a focus on mentoring and supporting others.
 
 I prioritize creating scalable, well-structured architectures that follow the best practices of software engineering. I enjoy working with cross-functional teams across the globe, collaborating to plan, design, and develop web applications using agile methodologies. My goal is to deliver adaptable, user-focused products that can keep up with evolving requirements.
 
-*   🌍I'm based in Munich
-*   ![image](https://github.com/user-attachments/assets/2ea08921-295f-44dd-8c7b-3345f6ac705d) See my [X (Twitter profile)](https://twitter.com/oscarbastos_web)
-*   ![image](https://github.com/user-attachments/assets/5cb4b3ab-1936-4660-8222-8365c788b1fd) See some code snippets at my [CodeSandbox](https://codesandbox.io/u/oscarbastos)
+- <img src="https://github.com/oscarbastoscorella/oscarbastoscorella/blob/main/assets/x.svg" width="16" height="16" /> Please visit my [X (Twitter profile)](https://twitter.com/oscarbastos_web)
+- <img src="https://github.com/oscarbastoscorella/oscarbastoscorella/blob/main/assets/codesandbox.svg" width="16" height="16" /> See some code snippets at my [CodeSandbox](https://codesandbox.io/u/oscarbastos)
 
     <table>
       <tr>
