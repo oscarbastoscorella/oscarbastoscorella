@@ -1,12 +1,11 @@
 # Hi 👋 My name is Oscar
 
-I'm a Frontend Expert with a strong passion for building sleek, modern web solutions. Over the years, I've gained hands-on experience leading teams and driving projects to success, always with a focus on mentoring and supporting others.
+Resourceful and innovative Frontend Expert with extensive hands-on experience, strong leadership skills, and a passion for mentoring others. Capable of successfully developing web solutions that feature clean, accessible, modern, and scalable architecture while following best practices in software engineering. Experienced in leading and collaborating with cross-functional teams from different countries, planning, designing, and developing web applications using agile methodologies focused on adaptability to changing requirements and delivering the best user experience. Additionally, I am an enthusiastic writer and speaker who enjoys sharing my knowledge and experience through social media content creation, tech blog articles, and presentations on UI technologies.
 
-I prioritize creating scalable, well-structured architectures that follow the best practices of software engineering. I enjoy working with cross-functional teams across the globe, collaborating to plan, design, and develop web applications using agile methodologies. My goal is to deliver adaptable, user-focused products that can keep up with evolving requirements.
-
+----
 - <img src="https://github.com/oscarbastoscorella/oscarbastoscorella/blob/main/assets/x.svg" width="16" height="16" /> Please visit my [X (Twitter profile)](https://twitter.com/oscarbastos_web)
 - <img src="https://github.com/oscarbastoscorella/oscarbastoscorella/blob/main/assets/codesandbox.svg" width="16" height="16" /> See some code snippets at my [CodeSandbox](https://codesandbox.io/u/oscarbastos)
-
+<h2>Frontend Technologies</h2>
     <table>
       <tr>
         <td>Frontend Dev</td>
@@ -66,7 +65,7 @@ I prioritize creating scalable, well-structured architectures that follow the be
           /></a>
           <a href="" title="Playwright"
             ><img
-              src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/playwright.svg"
+              src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg"
               width="40"
               height="40"
           /></a>
