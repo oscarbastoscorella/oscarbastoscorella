@@ -5,10 +5,9 @@ I'm a Frontend Expert with a strong passion for building sleek, modern web solut
 
 I prioritize creating scalable, well-structured architectures that follow the best practices of software engineering. I enjoy working with cross-functional teams across the globe, collaborating to plan, design, and develop web applications using agile methodologies. My goal is to deliver adaptable, user-focused products that can keep up with evolving requirements.
 
-*   🌍  I'm based in Munich
-*   ![image](https://github.com/user-attachments/assets/2ea08921-295f-44dd-8c7b-3345f6ac705d)
-  See my [X (Twitter profile)](https://twitter.com/oscarbastos_web)
-*   🚀  See some code snippets at my [CodeSandbox](https://codesandbox.io/u/oscarbastos)
+*   🌍I'm based in Munich
+*   ![image](https://github.com/user-attachments/assets/2ea08921-295f-44dd-8c7b-3345f6ac705d) See my [X (Twitter profile)](https://twitter.com/oscarbastos_web)
+*   ![image](https://github.com/user-attachments/assets/5cb4b3ab-1936-4660-8222-8365c788b1fd) See some code snippets at my [CodeSandbox](https://codesandbox.io/u/oscarbastos)
 
     <table>
       <tr>
@@ -70,12 +69,6 @@ I prioritize creating scalable, well-structured architectures that follow the be
           <a href="" title="Playwright"
             ><img
               src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/playwright.svg"
-              width="40"
-              height="40"
-          /></a>
-          <a href="" title="Cypress"
-            ><img
-              src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/cypress.svg"
               width="40"
               height="40"
           /></a>
