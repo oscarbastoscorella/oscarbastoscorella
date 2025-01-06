@@ -3,9 +3,9 @@
 Resourceful and innovative Frontend Expert with extensive hands-on experience, strong leadership skills, and a passion for mentoring others. Capable of successfully developing web solutions that feature clean, accessible, modern, and scalable architecture while following best practices in software engineering. Experienced in leading and collaborating with cross-functional teams from different countries, planning, designing, and developing web applications using agile methodologies focused on adaptability to changing requirements and delivering the best user experience. Additionally, I am an enthusiastic writer and speaker who enjoys sharing my knowledge and experience through social media content creation, tech blog articles, and presentations on UI technologies.
 
 ----
-- <img src="https://github.com/oscarbastoscorella/oscarbastoscorella/blob/main/assets/x.svg" width="24" height="24" /> Visit my [X (Twitter profile)](https://twitter.com/oscarbastos_web)
-- <img src="https://github.com/oscarbastoscorella/oscarbastoscorella/blob/main/assets/medium.svg" width="24" height="24" /> Read my blog articles at ([Medium Blog](https://oscarbastos.medium.com/))
-- <img src="https://github.com/oscarbastoscorella/oscarbastoscorella/blob/main/assets/codesandbox.svg" width="24" height="24" /> See some code snippets at my [CodeSandbox](https://codesandbox.io/u/oscarbastos)
+- <img src="https://github.com/oscarbastoscorella/oscarbastoscorella/blob/main/assets/x.svg" width="16" height="16" /> Visit my [X (Twitter profile)](https://twitter.com/oscarbastos_web)
+- <img src="https://github.com/oscarbastoscorella/oscarbastoscorella/blob/main/assets/medium.svg" width="16" height="16" /> Read my blog articles at ([Medium Blog](https://oscarbastos.medium.com/))
+- <img src="https://github.com/oscarbastoscorella/oscarbastoscorella/blob/main/assets/codesandbox.svg" width="16" height="16" /> See some code snippets at my [CodeSandbox](https://codesandbox.io/u/oscarbastos)
 <h2>Frontend Technologies</h2>
     <table>
       <tr>
